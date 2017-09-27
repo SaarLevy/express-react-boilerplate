@@ -4,10 +4,9 @@ Boilerplate for a React app with an express backend
 ## Instructions
 Make sure you have the latest versions of git, node and npm installed
 
-First clone the repository and reinitialize
+First clone the repository
 ```
 git clone https://github.com/SaarLevy/express-react-boilerplate.git
-git init
 ```
 
 Now for npm
