@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "client": "webpack --config webpack.config.js --watch",
-    "server": "nodemon --exec babel-node server.js",
+    "server": "nodemon --exec babel-node dist/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
