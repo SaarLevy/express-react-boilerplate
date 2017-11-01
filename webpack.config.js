@@ -39,7 +39,7 @@ module.exports = [
         },
         externals: [nodeExternals()],
         output: {
-            filename: './server.js'
+            filename: './dist/server.js'
         },
         resolve: {
             modules: ['./src/server'],
